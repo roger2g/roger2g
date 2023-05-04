@@ -3,8 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A3D9CF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Gustavo+Rogerio;I'm+19+years+old;I+from+Brasil,+PA;Student+of+analysis+and+development+systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavorogeriodev&show_icons=true&count_private=true&hide_border=true&title_color=A3D9CF&icon_color=A3D9CF&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Rogerio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorogeriodev&layout=compact&hide_border=true&title_color=A3D9CF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavorogeriodev&show_icons=true&count_private=true&hide_border=true&title_color=a3d9cf&icon_color=a3d9cf&bg_color=00000000" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorogeriodev&layout=compact&hide_border=true&title_color=A3D9CF&text_color=c9d1d9&bg_color=00000000" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gustavorogeriodev&bg_color=0d1117&color=c9d1d9&line=a3d9cf&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
