@@ -8,8 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorogeriodev&layout=compact&hide_border=true&title_color=A3D9CF&text_color=c9d1d9&bg_color=00000000" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gustavorogeriodev&bg_color=00000000&color=c9d1d9&line=a3d9cf&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <h2 aling="center"></h2><br>
  <div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
