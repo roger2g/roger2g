@@ -12,6 +12,3 @@ Enthusiast of the best web development technologies.
 
 ### Main Skills 💪
 [![My Skills](https://skillicons.dev/icons?i=js,vue,nodejs,mysql)](https://skillicons.dev)
-
----
-
