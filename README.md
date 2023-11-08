@@ -1,4 +1,4 @@
-# Gustavo Rogério 
+<h1>Gustavo Rogerio</h1>
 
 DEV @Rillsoft.
 
@@ -10,5 +10,6 @@ Enthusiast of the best web development technologies.
 
 "Try once, twice, three times and if possible try the fourth, fifth and as many times as necessary. Just don't give up on your first attempts, persistence is the friend of achievement. If you want to get where most people don't, do what most people don't do."
 
-### Main Skills 
+<h3>Main Skills</h3> 
+
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,vue,mysql)](https://skillicons.dev)
