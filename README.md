@@ -4,7 +4,7 @@ DEV Jr.
 
 [![Instagram Badge](https://img.shields.io/badge/-gustavooroger-145873?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/gustavooroger/)](https://www.instagram.com/gustavooroger/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Rogério-145873?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-rogerio/)](https://www.linkedin.com/in/gustavo-rogerio/) 
-[![Gmail Badge](https://img.shields.io/badge/-gustavorogeriodev@gmail.com-145873?style=flat&logo=Gmail&logoColor=white&link=mailto:gustavorogeriodev@gmail.com)](mailto:gustavorogeriodev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gustavo.rogerio.c@gmail.com-145873?style=flat&logo=Gmail&logoColor=white&link=mailto:gustavorogeriodev@gmail.com)](mailto:gustavorogeriodev@gmail.com)
 
 Crazy about the best web development technologies.
 
