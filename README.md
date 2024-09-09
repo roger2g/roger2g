@@ -12,4 +12,4 @@ Crazy about the best web development technologies.
 
 ### Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,react,mysql)](https://skillicons.dev)
